@@ -21,5 +21,5 @@ Tools & Technologies:
 
 Project Files:
 
-- Orders-Analytics.pbix – Power BI report
-- dashboard.png – Dashboard preview
+- OrdersAnalysis.pbix – Power BI report
+- OrdersAnalysis_Dashboard.png – Dashboard preview
